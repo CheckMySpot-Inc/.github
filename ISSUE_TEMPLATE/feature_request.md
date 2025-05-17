@@ -4,6 +4,7 @@ about: Suggest a new feature for CheckMySpot
 title: "[FEATURE] "
 labels: enhancement
 assignees: ''
+projects: ['YOUR_ORG/YOUR_PROJECT_NUMBER']
 ---
 
 ## Feature Description
