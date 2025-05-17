@@ -1,9 +1,10 @@
 ---
 name: Bug Report
-about: Report a bug in the CheckMySpot application
+about: Report a bug in the application
 title: "[BUG] "
 labels: bug
 assignees: ''
+projects: ['YOUR_ORG/YOUR_PROJECT_NUMBER']
 ---
 
 ## Bug Description
@@ -14,7 +15,6 @@ assignees: ''
 - **Environment**: [Dev/Test/Prod]
 - **Device/Browser**: [Details]
 - **OS/Version**: [Details]
-- **HIPAA Relevance**: [Yes/No]
 
 ## Steps to Reproduce
 1. 
